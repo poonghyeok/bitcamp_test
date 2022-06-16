@@ -1,3 +1,5 @@
 hello github
 
-this line modified by poong at remote_repo.
+this line is modified by poong at remote_repo.
+
+tihs line is modified by poong at the angel branch of local_repo.
